@@ -1,6 +1,6 @@
     
 
-# import pandas
+import pandas
 # student_data_frame = pandas.DataFrame(student_dict)
 
 # #Loop through rows of a data frame
