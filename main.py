@@ -1,7 +1,7 @@
 Looping through dictionaries:
 for (key, value) in student_dict.items():
     Access key and value
-#     pass
+    pass
 
 # import pandas
 # student_data_frame = pandas.DataFrame(student_dict)
