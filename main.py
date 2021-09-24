@@ -1,7 +1,6 @@
     
 
-
-for (index, row) in student_data_frame.iterrows():
+:
     Access index and row
     Access row.student or row.score
     pass
