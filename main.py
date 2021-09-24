@@ -1,5 +1,5 @@
 #TODO 1. Create a dictionary in this format:
-{"A": "Alfa", "B": "Bravo"}
+# {"A": "Alfa", "B": "Bravo"}
 
 # import pandas as pd
 # a = pd.read_csv("alphabet.csv")
