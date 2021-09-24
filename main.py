@@ -1,9 +1,6 @@
     
 
 :
-    Access index and row
-    Access row.student or row.score
-    pass
 
 # # Keyword Method with iterrows()
 # # {new_key:new_value for (index, row) in df.iterrows()}
