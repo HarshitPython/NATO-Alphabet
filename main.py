@@ -3,7 +3,6 @@
 
 import pandas as pd
 a = pd.read_csv("alphabet.csv")
-
 phonetic_dict = {row.letter:row.code for (index,row) in a.iterrows()}
 # print(phonetic_dict)
 
