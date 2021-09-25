@@ -1,7 +1,7 @@
 #TODO 1. Create a dictionary in this format:
 # {"A": "Alfa", "B": "Bravo"}
 
-# import pandas as pd
+import pandas as pd
 # a = pd.read_csv("alphabet.csv")
 
 # phonetic_dict = {row.letter:row.code for (index,row) in a.iterrows()}
