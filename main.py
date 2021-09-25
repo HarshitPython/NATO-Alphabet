@@ -11,4 +11,4 @@ phonetic_dict = {row.letter:row.code for (index,row) in a.iterrows()}
 
 c = input("Enter a word: ").upper()
 b = [phonetic_dict[letter] for letter in c]
-# print(b)
+print(b)
